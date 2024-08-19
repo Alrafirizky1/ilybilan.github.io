@@ -127,8 +127,8 @@ $(document).ready(function () {
     mSalam = checkTime(mSalam);
     sSalam = checkTime(sSalam);
     if (hSalam < 4) {
-      ucapanSalam = "Selamat Malam Kamu"
-      kata1 = "Jangan tidur malam";
+      ucapanSalam = "Selamat Malam bilan"
+      kata1 = "Jangan tidur terlalu larut";
       kata2 = "Semoga mimpi indah<i class='fa fa-heart'></i>";
     } else {
       if (hSalam < 11) {
@@ -139,7 +139,7 @@ $(document).ready(function () {
         if (hSalam < 16) {
           ucapanSalam = "Selamat Siang kukuuu"
           kata1 = "Jangan lupa istirahat siang yaa";
-          kata2 = "Jangan lupa aku juga HAHA<i class='fa fa-heart'>Aku Bosenn bgtt iniii</i>";
+          kata2 = "Jangan lupa aku juga HAHA<i class='fa fa-heart'>Aku Bosenn bgtt iniii wkwk</i>";
         } else {
           if (hSalam < 20) {
             ucapanSalam = "Selamat Sore kamu"
