@@ -137,9 +137,9 @@ $(document).ready(function () {
         kata2 = "Semoga hari hari mu menyenangkan <i class='fa fa-heart'></i>";
       } else {
         if (hSalam < 16) {
-          ucapanSalam = "Selamat Siang kamu"
-          kata1 = "Jangan lupa makan siang";
-          kata2 = "Jangan lupa shalat dzuhur juga<i class='fa fa-heart'></i>";
+          ucapanSalam = "Selamat Siang kukuuu"
+          kata1 = "Jangan lupa istirahat siang yaa";
+          kata2 = "Jangan lupa aku juga HAHA<i class='fa fa-heart'>Aku Bosenn bgtt iniii</i>";
         } else {
           if (hSalam < 20) {
             ucapanSalam = "Selamat Sore kamu"
